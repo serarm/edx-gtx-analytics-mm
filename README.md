@@ -1,5 +1,6 @@
 # edx_mm_ana
 Edx Micromaster [Analytics: Essential Tools] and Methods(https://www.edx.org/micromasters/analytics-essential-tools-methods)
+* __Completion Certificate__
 
 1. Introduction to Analytics Modeling:_May-Aug2017_ [__GTx -  ISYE6501x__](https://www.edx.org/course/gt-introduction-to-analytics-modeling-1)
 * [__Completion Certificate__](https://courses.edx.org/certificates/7caa739f8d934bd298a1fcd24d0073ed)
