@@ -9,4 +9,4 @@ Edx Micromaster [Analytics: Essential Tools and Methods](https://www.edx.org/mic
 * [__Completion Certificate__](https://courses.edx.org/certificates/5eb6bc09b2594f50b5e9a806d6469b6b)
 
 3. Data Analytics for Business : _May-Aug2018_  [__GTx -  MGT6203x__](https://www.edx.org/course/data-analytics-for-business) 
-*[ __Completion Certificate__](https://courses.edx.org/certificates/3907aeba07f443faa21fdd3195ccda1d)
+* [ __Completion Certificate__](https://courses.edx.org/certificates/3907aeba07f443faa21fdd3195ccda1d)
