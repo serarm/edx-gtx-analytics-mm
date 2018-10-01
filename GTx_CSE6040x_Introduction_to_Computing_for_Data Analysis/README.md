@@ -9,7 +9,7 @@
 3. Mathematical preliminaries  
 	- Probability, calculus, linear algebra
  
-4.  Representing numbers
+4.  [Representing numbers](https://github.com/serarm/edx-gtx-analytics-mm/tree/master/GTx_CSE6040x_Introduction_to_Computing_for_Data%20Analysis/4.%20Representing%20numbers)
 	* Floating-point arithmetic, numerical analysis
 
 ## *2. Module 1: Representing, transforming, and visualizing data.*
