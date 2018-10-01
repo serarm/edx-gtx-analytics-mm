@@ -2,12 +2,12 @@
 
 ## *1. Module 0: Fundamentals.*
 
-1. Topic 1: Python bootcamp review + intro to Jupyter
-2. Topic 2: Pairwise association mining
+1. [Topic 1: Python bootcamp review + intro to Jupyter](https://github.com/serarm/edx-gtx-analytics-mm/tree/master/GTx_CSE6040x_Introduction_to_Computing_for_Data%20Analysis/Topic%201%20Python%20bootcamp%20review%20%20intro%20to%20Jupyter)
+2. [Topic 2: Pairwise association mining](https://github.com/serarm/edx-gtx-analytics-mm/tree/master/GTx_CSE6040x_Introduction_to_Computing_for_Data%20Analysis/Topic%202%20Pairwise%20association%20mining)
   	* Default dictionaries, asymptotic running time
 
-3. Topic 3: Mathematical preliminaries
-    	* Probability, calculus, linear algebra
+3. Topic 3: Mathematical preliminaries  
+	- Probability, calculus, linear algebra
  
 4. Topic 4: Representing numbers
 	* Floating-point arithmetic, numerical analysis
