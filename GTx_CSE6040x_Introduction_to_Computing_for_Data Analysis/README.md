@@ -20,7 +20,7 @@
 6. Mining the web
 	  * HTML processing, web APIs
 	  
-7. Tidying data
+7. [Tidying data](https://github.com/serarm/edx-gtx-analytics-mm/tree/master/GTx_CSE6040x_Introduction_to_Computing_for_Data%20Analysis/7.%20Tidying%20data)
 	  * Pandas, merge/join, tibbles and bits, melting and casting
 	  
 8. Visualizing data and results
